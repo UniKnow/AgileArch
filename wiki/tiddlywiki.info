@@ -4,11 +4,9 @@
           "tiddlywiki/tiddlyweb",
           "tiddlywiki/codemirror",
           "tiddlywiki/highlight"
-          "/plugins/tongerner/ro" 
 	],
 	"themes": [
-		"tiddlywiki/vanilla",
-		"tiddlywiki/snowwhite"
+		"tiddlywiki/readonly"
 	],
 	"languages": [
 		"en-US"
