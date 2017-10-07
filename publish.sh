@@ -2,7 +2,7 @@
 
 # go to the output directory and create a new git repo 
 cd ./*wiki/output || exit 1 # abort script if folder does not exists
-cp -R ./*wiki/tiddlers/images .
+cp -R /*wiki/tiddlers/images .
 git init
 
 # inside this git repo we'll pretend to be a new user
