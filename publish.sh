@@ -1,6 +1,8 @@
 #!/bin/bash
 
-find .
+#find .
+
+# Copy images
 cp -r ./wiki/tiddlers/images ./wiki/output
 
 # go to the output directory and create a new git repo 
