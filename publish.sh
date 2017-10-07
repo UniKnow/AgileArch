@@ -1,9 +1,10 @@
 #!/bin/bash
 
-find . ! -iregex "./*wiki/tiddlers/images"
+find .
+cp ./wiki/tiddlers/images ./wiki/output
 
 # go to the output directory and create a new git repo 
-cd ./*wiki/output || exit 1 # abort script if folder does not exists
+cd ./wiki/output || exit 1 # abort script if folder does not exists
 git init
 
 # inside this git repo we'll pretend to be a new user
