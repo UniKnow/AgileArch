@@ -1,0 +1,16 @@
+{
+	"directories": [
+		{
+			"path": "./docs/public",
+			"filesRegExp": "^.*\\.md$",
+			"isTiddlerFile": false,
+			"fields": {
+				"title": {"source": "filename"},
+				"created": {"source": "created"},
+				"modified": {"source": "modified"},
+				creator: "msche",
+				"type": "text/markdown"
+			}
+		}
+	]
+}
