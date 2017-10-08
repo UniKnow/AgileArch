@@ -7,7 +7,7 @@
 	],
 	"themes": [
 		"tiddlywiki/vanilla",
-		"tiddlywiki/snowwhite"
+		"tiddlywiki/snowwhite",
 		"tiddlywiki/readonly"
 	],
 	"languages": [

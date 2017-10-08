@@ -3,7 +3,7 @@
 #find .
 
 # Copy images
-cp -r ./wiki/tiddlers/images ./wiki/output
+cp -r ./docs/public/images ./wiki/output
 
 # go to the output directory and create a new git repo 
 cd ./wiki/output || exit 1 # abort script if folder does not exists
