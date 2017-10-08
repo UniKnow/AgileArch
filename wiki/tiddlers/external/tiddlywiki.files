@@ -9,7 +9,7 @@
 				"created": {"source": "created"},
 				"modified": {"source": "modified"},
 				"creator": "uniknow",
-				"type": "text/markdown"
+				"type": "text/x-markdown"
 			}
 		}
 	]
