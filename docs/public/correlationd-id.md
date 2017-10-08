@@ -1,3 +1,3 @@
-= Correlation ID
+== Correlation ID
 
 Description of correlation ID
