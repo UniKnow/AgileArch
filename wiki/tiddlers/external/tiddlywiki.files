@@ -8,7 +8,7 @@
 				"title": {"source": "filename"},
 				"created": {"source": "created"},
 				"modified": {"source": "modified"},
-				creator: "msche",
+				"creator": "uniknow",
 				"type": "text/markdown"
 			}
 		}
